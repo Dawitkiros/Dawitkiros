@@ -4,11 +4,11 @@
 - 🌱 I’m currently doing My Masters Degree in Software Engineering and Software engineering course from ALX africa.
 - 💞️ I’m looking to collaborate on Machine learning Projects.
 - 📫 How to reach me, connect me on 
--            Email-- dawitkiros1922@gmail.com,
--            Linkedin-- https://www.linkedin.com/in/dawit-kiros/,  
--            Instgram-- https://www.instagram.com/dawit_kiros_/, 
--            Twitter-- https://twitter.com/dawit_kiros_/, and
--            Github-- https://github.com/Dawitkiros 
+-   Email-- dawitkiros1922@gmail.com,
+-   Linkedin-- https://www.linkedin.com/in/dawit-kiros/,  
+-   Instgram-- https://www.instagram.com/dawit_kiros_/, 
+-   Twitter-- https://twitter.com/dawit_kiros_/, and
+-   Github-- https://github.com/Dawitkiros 
 
 <!---
 Dawitkiros/Dawitkiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
