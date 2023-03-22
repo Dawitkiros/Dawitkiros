@@ -5,8 +5,7 @@
 - 🔭 I'm currently doing an **Internship at Johnson Controls in Pune, India.**
 - 👀 I’m interested in Software Engineering, Machine Learning, and Deep learning.
 - 💞️ I’m looking to collaborate on Machine learning Projects.
-- 📫 How to reach me, connect me on 
--   Email-- dawitkiros1922@gmail.com,
+- 📫 How to reach me, connect me on **Email-- dawitkiros1922@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
