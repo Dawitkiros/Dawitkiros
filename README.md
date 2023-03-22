@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawit Kiros</h1>
 <h3 align="center">Software Engineer and Data Science Enthuasiast </h3>
+
 - 🌱 I’m currently doing **My Masters Degree in Software Engineering and ALX Software Engineering.**
 - 🔭 I'm currently doing an **Internship at Johnson Controls in Pune, India.**
 - 👀 I’m interested in Software Engineering, Machine Learning, and Deep learning.
