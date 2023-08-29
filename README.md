@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dawit Kiros</h1>
-<h3 align="center">Software Engineer and Data Science Enthuasiast </h3>
+<h3 align="center">Software Engineer and Machine Learning Enthuasiast </h3>
 
-- 🌱 I’m currently doing **My Masters Degree in Software Engineering and ALX Software Engineering.**
-- 🔭 I'm currently doing an **Internship at Johnson Controls in Pune, India.**
-- 👀 I’m interested in Software Engineering, Machine Learning, and Deep learning.
-- 💞️ I’m looking to collaborate on Machine learning Projects.
+- 🌱 I have completed my **Masters Degree in Software Engineering and ALX Software Engineering.**
+- 🔭 I have completed an **Internship at Johnson Controls in Pune, India.**
+- 👀 I am passionate about Software Engineering, Machine Learning, and Deep learning.
+- 💞️ I’m actively seeking collaborations on Machine Learning Projects.
 - 📫 How to reach me, connect me on **Email-- dawitkiros1922@gmail.com**
 
 
