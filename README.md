@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawit Kiros</h1>
 <h3 align="center">Software Engineer and Machine Learning Enthuasiast </h3>
 
+- 🌱 I am a Phd candidate/Researcher at NTNU, Trondheim, Norway.
 - 🌱 I have completed my **Masters Degree in Software Engineering and ALX Software Engineering.**
 - 🔭 I have completed an **Internship at Johnson Controls in Pune, India.**
 - 👀 I am passionate about Software Engineering, Machine Learning, and Deep learning.
