@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dawit Kiros</h1>
-<h3 align="center">Software Engineer and Machine Learning Enthuasiast </h3>
+<h1 align="center">Greetings! 👋 I'm Dawit Kiros</h1>
+<h3 align="center">Machine Learning Researcher and Software Engineer</h3>
 
-- 🌱 I am a Phd candidate/Researcher at NTNU, Trondheim, Norway.
-- 🌱 I have completed my **Masters Degree in Software Engineering and ALX Software Engineering.**
-- 🔭 I have completed an **Internship at Johnson Controls in Pune, India.**
-- 👀 I am passionate about Software Engineering, Machine Learning, and Deep learning.
-- 💞️ I’m actively seeking collaborations on Machine Learning Projects.
-- 📫 How to reach me, connect me on **Email-- dawitkiros1922@gmail.com**
-
+- 🌱 Currently pursuing a Ph.D. and conducting research at NTNU, Trondheim, Norway.
+- 🌱 Holds a Master's Degree in Software Engineering and ALX Software Engineering.
+- 🔭 Completed an Internship at Johnson Controls in Pune, India.
+- 👀 Passionate about Software Engineering, Machine Learning, and Deep Learning.
+- 💞️ Actively seeking collaborations on Machine Learning Projects.
+- 📫 Connect with me via email: **dawitkiros1922@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dawit_kiros_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fitsum" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dawit-kiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fitsum" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dawit_kiros_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fitsum" height="30" width="40" /></a>
+  <a href="https://twitter.com/dawit_kiros_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fitsum" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dawit-kiros/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fitsum" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/dawit_kiros_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fitsum" height="30" width="40" /></a>
 </p>
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
