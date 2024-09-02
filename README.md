@@ -1,12 +1,12 @@
 <h1 align="center">Greetings! 👋 I'm Dawit Kiros</h1>
 <h3 align="center">Machine Learning Researcher and Software Engineer</h3>
 
-- Currently pursuing a Ph.D. in privacy-preserving ML at NTNU, Trondheim, Norway.
-- Holds a Master's Degree in Software Engineering and ALX Software Engineering.
-- 🔭 Completed an Internship at Johnson Controls in Pune, India.
-- 👀 Passionate about Software Engineering, Machine Learning, and Deep Learning.
-- :) Actively seeking collaborations on Machine Learning Projects.
-- 📫 Connect with me via email: **dawitkiros1922@gmail.com**
+🎓 Ph.D. candidate in Privacy-Preserving ML at NTNU, Trondheim, Norway.  
+🎓 Master's in Software Engineering from KIIT University, India.  
+🌱 Former Intern at Johnson Controls, Pune, India.  
+💻 Enthusiast in Software Engineering, Machine Learning, and Deep Learning.  
+🤝 Open to collaborations on ML projects!
+📫 Connect with me via email: **dawitkiros1922@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
