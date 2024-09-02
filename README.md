@@ -1,8 +1,8 @@
 <h1 align="center">Greetings! 👋 I'm Dawit Kiros</h1>
 <h3 align="center">Machine Learning Researcher and Software Engineer</h3>
 
-- 🌱 Currently pursuing a Ph.D. and conducting research at NTNU, Trondheim, Norway.
-- 🌱 Holds a Master's Degree in Software Engineering and ALX Software Engineering.
+- Currently pursuing a Ph.D. in privacy-preserving ML at NTNU, Trondheim, Norway.
+- Holds a Master's Degree in Software Engineering and ALX Software Engineering.
 - 🔭 Completed an Internship at Johnson Controls in Pune, India.
 - 👀 Passionate about Software Engineering, Machine Learning, and Deep Learning.
 - :) Actively seeking collaborations on Machine Learning Projects.
