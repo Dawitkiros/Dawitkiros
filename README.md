@@ -5,7 +5,7 @@
 - 🌱 Holds a Master's Degree in Software Engineering and ALX Software Engineering.
 - 🔭 Completed an Internship at Johnson Controls in Pune, India.
 - 👀 Passionate about Software Engineering, Machine Learning, and Deep Learning.
-- 💞️ Actively seeking collaborations on Machine Learning Projects.
+- :) Actively seeking collaborations on Machine Learning Projects.
 - 📫 Connect with me via email: **dawitkiros1922@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
