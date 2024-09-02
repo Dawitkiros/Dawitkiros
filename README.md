@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! 👋 I'm Dawit Kiros</h1>
+<h1 align="center">Greetings! 👋 I'm Dawit Kiros Redie</h1>
 <h3 align="center">Machine Learning Researcher and Software Engineer</h3>
 
 🎓 Ph.D. candidate in Privacy-Preserving ML at NTNU, Trondheim, Norway.  
