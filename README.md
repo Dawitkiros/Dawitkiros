@@ -6,7 +6,7 @@
 🌱 Former Data Engineering Intern at Johnson Controls, Pune, India.  
 💻 Enthusiast in Software Engineering, Machine Learning, and Deep Learning.  
 🤝 Open to collaborations on ML projects!
-📫 Connect with me via email: **dawitkiros1922@gmail.com**
+<p 📫 Connect with me via email: **dawitkiros1922@gmail.com** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
