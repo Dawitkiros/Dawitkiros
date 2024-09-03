@@ -6,13 +6,13 @@
 🌱 Former Data Engineering Intern at Johnson Controls, Pune, India.  
 💻 Enthusiast in Software Engineering, Machine Learning, and Deep Learning.  
 🤝 Open to collaborations on ML projects!
-<p 📫 Connect with me via email: **dawitkiros1922@gmail.com** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/dawit_kiros_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fitsum" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dawit-kiros/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fitsum" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/dawit_kiros_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fitsum" height="30" width="40" /></a>
+  <a href="mailto:dawitkiros1922@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dawitkiros/Learn_pytorch/blob/main/email-svgrepo-com.svg" alt="dawit" height="30" width="40"/></a>
+  <a href="https://twitter.com/dawit_kiros_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dawit" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dawit-kiros/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawit" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/dawit_kiros_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawit" height="30" width="40" /></a>
 </p>
 
 <!--
