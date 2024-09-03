@@ -3,7 +3,7 @@
 
 🎓 Ph.D. candidate in Privacy-Preserving ML at NTNU, Trondheim, Norway.  
 🎓 Master's in Software Engineering from KIIT University, India.  
-🌱 Former Intern at Johnson Controls, Pune, India.  
+🌱 Former Data Engineering Intern at Johnson Controls, Pune, India.  
 💻 Enthusiast in Software Engineering, Machine Learning, and Deep Learning.  
 🤝 Open to collaborations on ML projects!
 📫 Connect with me via email: **dawitkiros1922@gmail.com**
