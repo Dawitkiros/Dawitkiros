@@ -1,8 +1,8 @@
 <h1 align="center">Greetings! 👋 I'm Dawit Kiros Redie</h1>
 <h3 align="center">Machine Learning Researcher and Software Engineer</h3>
 
-🎓 Ph.D. candidate in Privacy-Preserving ML at NTNU, Trondheim, Norway.  
-🎓 Master's in Software Engineering from KIIT University, India.  
+🎓 Ph.D. candidate in Privacy-Preserving ML at [NTNU](https://www.ntnu.no/), Trondheim, Norway.  
+🎓 Master's in Software Engineering from [KIIT University](https://kiit.ac.in/), India.  
 🌱 Former Data Engineering Intern at [Johnson Controls](https://www.johnsoncontrols.com/), Pune, India.  
 💻 Enthusiast in Software Engineering, Machine Learning, and Deep Learning.  
 🤝 Open to collaborations on ML projects!
