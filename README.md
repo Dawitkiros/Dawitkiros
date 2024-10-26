@@ -12,7 +12,6 @@
   <a href="mailto:dawitkiros1922@gmail.com" target="_blank"><img align="center" src="https://www.shareicon.net/data/128x128/2016/08/01/639817_email_512x512.png" alt="email" height="30" width="40"/></a>
   <a href="https://twitter.com/dawit_kiros_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dawit" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/dawit-kiros/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawit" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/dawit_kiros_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawit" height="30" width="40" /></a>
 </p>
 
 <!--
