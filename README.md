@@ -4,8 +4,8 @@
 🎓 Ph.D. candidate in Privacy-Preserving ML at [NTNU](https://www.ntnu.no/), Trondheim, Norway.  
 🎓 Master's in Software Engineering from [KIIT University](https://kiit.ac.in/), India.  
 🌱 Former Data Engineering Intern at [Johnson Controls](https://www.johnsoncontrols.com/), Pune, India.  
-💻 Enthusiast in Software Engineering, Machine Learning, and Deep Learning.  
-🤝 Open to collaborations on ML projects!
+💻 Enthusiast in Privacy-preserving Machine Learning, Deep Learning, and Software Engineering.  
+🤝 Open to collaborations on Federated learning research projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
